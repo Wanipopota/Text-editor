@@ -12,10 +12,10 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "Wanipopota",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
